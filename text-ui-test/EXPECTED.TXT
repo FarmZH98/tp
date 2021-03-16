@@ -7,7 +7,8 @@ Hello! I'm MojoHR
 What can I do for you?
 > Use the keyword "LIST (type) " to print the emails by types
 > Use the keyword "READ (index) " to open the selected email
-> Use the keyword "SEND (recipient's email address) (subject) (body) " to send email
+> Use the keyword "COMPOSE " to create a draft email
+> Use the keyword "SEND (index of draft) " to send email in the draft folder
 > Use the keyword "DELETE (index) " to delete the selected email
 > Use the keyword "ARCHIVE (index) " to move the selected email to the archive folder
 > Use the keyword "HELP" to print the menu
