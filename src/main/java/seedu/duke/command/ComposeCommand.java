@@ -1,7 +1,5 @@
 package seedu.duke.command;
 
-import org.json.simple.JSONObject;
-
 import java.util.Scanner;
 import java.time.LocalDateTime;
 
